@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:m.rafey659@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.upwork.com/agencies/slashcommit/">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork — SlashCommit Agency" />
   </a>
   <a href="https://github.com/muhammad-rafey">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
