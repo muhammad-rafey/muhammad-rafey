@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/muhammad-rafey">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Building+modern+SaaS+products;Clean+APIs+%C2%B7+Fast+UIs+%C2%B7+Reliable+data;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Postgres;Exploring+AI+agent+workflows&font=Fira%20Code&center=true&width=520&height=42&color=3178C6&vCenter=true&size=18&pause=900" alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%E2%9C%A8+Full-stack+Builder;Designing+multi-agent+systems;Shipping+RAG+pipelines+at+scale;Orchestrating+Claude+%E2%80%A2+GPT+%E2%80%A2+open-source+LLMs;Turning+prompts+into+products&font=Fira%20Code&center=true&width=560&height=42&color=8B5CF6&vCenter=true&size=18&pause=900" alt="typing animation" />
   </a>
 </p>
 
@@ -21,10 +21,12 @@
 
 ### About me
 
-- 🛠  Building modern SaaS — clean APIs, fast UIs, reliable data layers
-- 🌱  Currently focused on creator-economy & influencer-marketing tooling
-- 🤖  Exploring AI agent workflows and developer tooling
-- 💬  Ask me about TypeScript, Next.js, Postgres, or system design
+- 🧙‍♂️  AI engineer + full-stack builder — turning LLMs into production systems
+- 🤖  Designing **multi-agent architectures**, **subagent orchestration**, and **agentic workflows**
+- 🔎  Shipping **RAG pipelines** with vector search, hybrid retrieval, and reranking
+- 🛠  Heavy user of **Claude Code** & **MCP** — building tools, skills, and custom agents
+- 🌱  Building creator-economy SaaS at the intersection of AI and influencer marketing
+- 💬  Ask me about agent design, prompt engineering, RAG, or scaling LLM apps
 
 ---
 
@@ -67,6 +69,57 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
+
+---
+
+### 🧙‍♂️ AI / LLM stack
+
+<p>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-2E2E2E?style=flat-square&logo=meta&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logo=robotframework&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/AutoGen-2496ED?style=flat-square&logo=microsoft&logoColor=white" alt="AutoGen" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Weaviate-2E2E2E?style=flat-square&logo=weaviate&logoColor=white" alt="Weaviate" />
+  <img src="https://img.shields.io/badge/Chroma-FF6B35?style=flat-square&logoColor=white" alt="Chroma" />
+  <img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Replicate-000000?style=flat-square&logo=replicate&logoColor=white" alt="Replicate" />
+  <img src="https://img.shields.io/badge/Modal-7B61FF?style=flat-square&logoColor=white" alt="Modal" />
+</p>
+
+---
+
+### ✨ What I build with AI
+
+```text
+🧠  Multi-agent systems         ─ planner / executor / critic patterns, agent-to-agent handoff
+🪄  Subagent orchestration      ─ parallel tool use, isolated contexts, supervisor agents
+📚  Retrieval-Augmented Gen     ─ hybrid search (BM25 + dense), reranking, query rewriting
+🧰  Tool use & function calling ─ structured outputs, JSON schemas, MCP server design
+🧪  Prompt engineering          ─ chain-of-thought, few-shot, prompt caching, evals
+🔌  Custom MCP servers          ─ exposing internal APIs / DBs to Claude & other LLMs
+⚡  Streaming + low-latency UX  ─ SSE, partial outputs, optimistic UI for AI apps
+🛡️  Guardrails & evals          ─ output validation, regression suites, LLM-as-judge
+```
 
 ---
 
