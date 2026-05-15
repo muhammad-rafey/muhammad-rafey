@@ -1,6 +1,11 @@
-<h1 align="center">Hi, I'm Muhammad Rafey 👋</h1>
 <p align="center">
-  Full-stack engineer building SaaS products — from database schemas to pixel-perfect UIs.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Muhammad%20Rafey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20SaaS%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/muhammad-rafey">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+modern+SaaS+products;Clean+APIs+%C2%B7+Fast+UIs+%C2%B7+Reliable+data;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Postgres;Exploring+AI+agent+workflows&font=Fira%20Code&center=true&width=520&height=42&color=3178C6&vCenter=true&size=18&pause=900" alt="typing animation" />
+  </a>
 </p>
 
 <p align="center">
@@ -53,8 +58,20 @@
 
 ---
 
+### Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-rafey&bg_color=ffffff&color=3178c6&line=3178c6&point=20232a&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+---
+
 ### Quote of the day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Programming quote" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
 </p>
