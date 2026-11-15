@@ -54,7 +54,6 @@
 | 🖥️ **Computer & browser agents** | Agents that drive real UIs in sandboxed browsers and VMs |
 | 📚 **RAG & agentic search** | Hybrid BM25 + dense retrieval, reranking, query planning, and grounded citations |
 | 🧩 **Context engineering** | Prompt caching, compaction, long-term memory, and structured outputs |
-| 🎙️ **Voice agents** | Realtime speech-to-speech assistants with tool calling |
 | 🛡️ **Evals & guardrails** | Tracing, LLM-as-judge, golden sets, and cost and latency budgets in CI |
 
 ---
