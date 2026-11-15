@@ -80,7 +80,7 @@
     <td>
       <img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white" alt="Temporal" />
       <img src="https://img.shields.io/badge/Inngest-1E1E1E?style=flat-square" alt="Inngest" />
-      <img src="https://img.shields.io/badge/Trigger.dev-41FF54?style=flat-square" alt="Trigger.dev" />
+      <img src="https://img.shields.io/badge/Trigger.dev-1A1B1F?style=flat-square" alt="Trigger.dev" />
       <img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white" alt="Prefect" />
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
       <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make" />
