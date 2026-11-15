@@ -29,129 +29,17 @@
 
 ---
 
-### ⚡ AI engineering stack
+### AI engineering stack
 
 <table>
-  <tr>
-    <td><b>Frontier & open models</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
-      <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=flat-square" alt="OpenAI GPT" />
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/Qwen-615CED?style=flat-square&logo=qwen&logoColor=white" alt="Qwen" />
-      <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
-      <img src="https://img.shields.io/badge/Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral" />
-      <img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Llama" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Agent frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Agent SDK" />
-      <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square" alt="OpenAI Agents SDK" />
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
-      <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
-      <img src="https://img.shields.io/badge/Mastra-111111?style=flat-square" alt="Mastra" />
-      <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic AI" />
-      <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google ADK" />
-      <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logo=crewai&logoColor=white" alt="CrewAI" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Protocols & interop</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-      <img src="https://img.shields.io/badge/A2A-4285F4?style=flat-square" alt="Agent2Agent protocol" />
-      <img src="https://img.shields.io/badge/Agent_Skills-D97757?style=flat-square&logo=claude&logoColor=white" alt="Agent Skills" />
-      <img src="https://img.shields.io/badge/Structured_outputs-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Structured outputs" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Prompt programming</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/DSPy-1F6FEB?style=flat-square" alt="DSPy" />
-      <img src="https://img.shields.io/badge/BAML-7C3AED?style=flat-square" alt="BAML" />
-      <img src="https://img.shields.io/badge/Instructor-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Instructor" />
-      <img src="https://img.shields.io/badge/Prompt_caching-D97757?style=flat-square&logo=claude&logoColor=white" alt="Prompt caching" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Durable workflows & automation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white" alt="Temporal" />
-      <img src="https://img.shields.io/badge/Inngest-1E1E1E?style=flat-square" alt="Inngest" />
-      <img src="https://img.shields.io/badge/Trigger.dev-1A1B1F?style=flat-square" alt="Trigger.dev" />
-      <img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white" alt="Prefect" />
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-      <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make" />
-      <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Agent runtime & computer use</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/E2B_sandboxes-FF8800?style=flat-square" alt="E2B sandboxes" />
-      <img src="https://img.shields.io/badge/Daytona-1F1F1F?style=flat-square" alt="Daytona" />
-      <img src="https://img.shields.io/badge/Browserbase-F03603?style=flat-square" alt="Browserbase" />
-      <img src="https://img.shields.io/badge/Stagehand-111111?style=flat-square" alt="Stagehand" />
-      <img src="https://img.shields.io/badge/Playwright_MCP-2EAD33?style=flat-square" alt="Playwright MCP" />
-      <img src="https://img.shields.io/badge/Claude_computer_use-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude computer use" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Web data & retrieval</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Firecrawl-FA5D19?style=flat-square" alt="Firecrawl" />
-      <img src="https://img.shields.io/badge/Tavily-1C64F2?style=flat-square" alt="Tavily" />
-      <img src="https://img.shields.io/badge/Exa-1F40ED?style=flat-square" alt="Exa" />
-      <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
-      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
-      <img src="https://img.shields.io/badge/Turbopuffer-1F1F1F?style=flat-square" alt="Turbopuffer" />
-      <img src="https://img.shields.io/badge/Voyage_AI_embeddings-012639?style=flat-square" alt="Voyage AI" />
-      <img src="https://img.shields.io/badge/Cohere_Rerank-39594D?style=flat-square" alt="Cohere Rerank" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Voice & realtime agents</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/LiveKit_Agents-1F1F1F?style=flat-square&logo=livekit&logoColor=white" alt="LiveKit Agents" />
-      <img src="https://img.shields.io/badge/Pipecat-000000?style=flat-square&logo=pipecat&logoColor=white" alt="Pipecat" />
-      <img src="https://img.shields.io/badge/OpenAI_Realtime-412991?style=flat-square" alt="OpenAI Realtime" />
-      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Inference, gateways & fine-tuning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square&logo=openrouter&logoColor=white" alt="OpenRouter" />
-      <img src="https://img.shields.io/badge/Vercel_AI_Gateway-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI Gateway" />
-      <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=white" alt="vLLM" />
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-      <img src="https://img.shields.io/badge/Modal-62DE61?style=flat-square&logo=modal&logoColor=black" alt="Modal" />
-      <img src="https://img.shields.io/badge/Unsloth-0F0F0F?style=flat-square" alt="Unsloth" />
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Evals & observability</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Langfuse-0A60B5?style=flat-square" alt="Langfuse" />
-      <img src="https://img.shields.io/badge/Braintrust-111111?style=flat-square" alt="Braintrust" />
-      <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith" />
-      <img src="https://img.shields.io/badge/Arize_Phoenix-6E40C9?style=flat-square" alt="Arize Phoenix" />
-      <img src="https://img.shields.io/badge/Promptfoo-E5484D?style=flat-square" alt="Promptfoo" />
-      <img src="https://img.shields.io/badge/OpenTelemetry_GenAI-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry GenAI" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI dev tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-      <img src="https://img.shields.io/badge/Codex-412991?style=flat-square" alt="Codex" />
-      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-    </td>
-  </tr>
+  <tr><td><b>Models</b></td><td>Claude · GPT · Gemini · Qwen · DeepSeek · Mistral</td></tr>
+  <tr><td><b>Agents</b></td><td>Claude Agent SDK · OpenAI Agents SDK · LangGraph · Vercel AI SDK · Mastra · Pydantic AI</td></tr>
+  <tr><td><b>Interop</b></td><td>MCP · A2A · Agent Skills · structured outputs · DSPy · BAML</td></tr>
+  <tr><td><b>Orchestration</b></td><td>Temporal · Inngest · Trigger.dev · n8n</td></tr>
+  <tr><td><b>Agent runtime</b></td><td>E2B · Browserbase · Stagehand · Playwright MCP · computer use</td></tr>
+  <tr><td><b>Retrieval</b></td><td>pgvector · Qdrant · Turbopuffer · Firecrawl · Exa · Voyage · Cohere Rerank</td></tr>
+  <tr><td><b>Inference</b></td><td>OpenRouter · Vercel AI Gateway · vLLM · Ollama · Modal</td></tr>
+  <tr><td><b>Evals</b></td><td>Langfuse · Braintrust · LangSmith · Phoenix · Promptfoo · OpenTelemetry</td></tr>
 </table>
 
 ---
